@@ -1,4 +1,4 @@
 # hello-world
 
-# my nmae is Joshua
+# my name is Joshua
 # I did NOT have tacos for lunch
